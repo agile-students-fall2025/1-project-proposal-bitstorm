@@ -20,7 +20,7 @@ Our first users will be our friends and classmates right here on campus. This is
 
 From the user's perspective, the system functions as a daily pet-care and self-care routine.
 
-First, a user signs up and gets to **adopt their own virtual pet**, like a little puppy. Next, the user sets up their daily health goals. They have two choices: they can either follow a set of **standard nutritional requirements** based on general health guidelines, or they can **customize their own goals** if they have specific targets in mind (like focusing on protein or iron).
+First, a user signs up and gets to **adopt their own virtual pet**, like a little puppy. Next, the user sets up their daily health goals. They have two choices: they can either follow a set of **standard nutritional requirements** based on general health guidelines (automatically generated according to their current and target weight), or they can **customize their own goals** if they have specific targets in mind (like focusing on protein or iron).
 
 The main screen is the pet's home, where the user also sees their daily nutrition goals—like progress bars for protein, vitamins, and so on. Throughout the day, the user logs meals by searching for ingredients (e.g., "banana," "spinach," "chicken") and entering the quantity eaten. The app then calculates the nutrients from the meal and updates the user's progress bars.
 
@@ -30,7 +30,7 @@ Day after day, as the user keeps eating well, they will see their pet **grow fro
 
 ## Scope
 
-We're confident this project is a perfect fit for our team for one semester—it's challenging but definitely achievable.
+We're confident this project is a perfect fit for a five-member team for one semester—it's challenging but definitely achievable.
 
 What makes it a **real challenge** is that it's more than just a simple data-entry app. We'll need to connect to a **third-party nutrition API** (e.g., USDA FoodData Central) to get all our food data, which is a significant integration task. We also have to design a fun and engaging reward system on the front-end.
 
