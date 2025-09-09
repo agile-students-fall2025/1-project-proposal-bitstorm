@@ -39,7 +39,11 @@ At the same time, **it's not overly ambitious**. We can keep the initial scope f
 ## Collaboration
 
 Kevin
+
 Keven Ni
+
 Ellen Wong
+
 Sanna Moon
+
 Tony Zhao
