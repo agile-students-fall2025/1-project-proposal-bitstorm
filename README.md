@@ -42,7 +42,7 @@ Kevin Yang
 
 Keven Ni
 
-Ellen Wong
+[Ellen Wong](https://github.com/ellen-wnl)
 
 Sanna Moon
 
