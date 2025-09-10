@@ -1,6 +1,19 @@
+## Team Members  
+
+- [Kevin Yang](https://github.com/KevinYang-hi)
+
+- [Keven Ni](https://github.com/BlackCloud-K)
+
+- [Ellen Wong](https://github.com/ellen-wnl)
+
+- [Sanna Moon](https://github.com/SannaMoon)
+
+- [Tony Zhao](https://github.com/Tonyzsp)
+
+
 # NourishPet: Feed Yourself, Feed Your Friend
 
-NourishPet is a mobile web application that transforms the tedious task of daily nutrition tracking into the rewarding and engaging experience of raising a virtual pet. The idea is simple: users take care of a virtual pet by taking care of themselves. When users eat healthy, their pet gets to eat and grow.
+NourishPet is a mobile web app that makes nutrition tracking fun by turning it into a game of raising a virtual pet. When users eat healthy, their pet gets fed and grows.
 
 ## What and Why?
 
@@ -35,15 +48,3 @@ We're confident this project is a perfect fit for a five-member team for one sem
 What makes it a **real challenge** is that it's more than just a simple data-entry app. We'll need to connect to a **third-party nutrition API** (e.g., USDA FoodData Central) to get all our food data, which is a significant integration task. We also have to design a fun and engaging reward system on the front-end.
 
 At the same time, **it's not overly ambitious**. We can keep the initial scope focused. The goal for the semester is to get the core loop working perfectly: one user, one pet, and the basic feed-and-grow mechanic. Features like adding friends, different types of pets, and AI-powered meal suggestions are great ideas for the future, but we can deliver a complete, polished product by focusing on the main experience first. With a team of 4-6, the work can be split effectively between the backend (handling the data and APIs) and frontend (making the pet and dashboard look great).
-
-## Collaboration
-
-[Kevin Yang](https://github.com/KevinYang-hi)
-
-[Keven Ni](https://github.com/BlackCloud-K)
-
-[Ellen Wong](https://github.com/ellen-wnl)
-
-[Sanna Moon](https://github.com/SannaMoon)
-
-[Tony Zhao](https://github.com/Tonyzsp)
