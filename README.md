@@ -38,12 +38,12 @@ At the same time, **it's not overly ambitious**. We can keep the initial scope f
 
 ## Collaboration
 
-Kevin Yang
+[Kevin Yang](https://github.com/KevinYang-hi)
 
-Keven Ni
+[Keven Ni](https://github.com/BlackCloud-K)
 
 [Ellen Wong](https://github.com/ellen-wnl)
 
-Sanna Moon
+[Sanna Moon](https://github.com/SannaMoon)
 
-Tony Zhao
+[Tony Zhao](https://github.com/Tonyzsp)
