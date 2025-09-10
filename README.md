@@ -31,13 +31,13 @@ Our first users will be our friends and classmates right here on campus. This is
 
 ## How?
 
-- Sign up and **adopt a virtual pet**.  
-- Set daily nutrition goals: **standard guidelines** or **custom targets**.  
-- See the pet’s home with nutrition progress bars.  
-- Log meals by searching foods; app updates nutrients automatically.  
-- Earn rewards like **“Vita-Bones”** for meeting goals.  
-- Feed rewards to the pet to gain XP and happiness.  
-- Watch the pet **grow from a puppy into an adult dog** as the user eats well.  
+- Sign up and **adopt a virtual pet** to begin the journey.  
+- Set daily nutrition goals: choose from **standard guidelines** (based on weight and health data) or **custom targets** (e.g., focus on protein, iron).  
+- View the pet’s home screen, which also displays progress bars for daily nutrients like protein, vitamins, and minerals.  
+- Log meals by searching for foods and entering quantities; the app calculates nutrients and updates progress automatically.  
+- Meeting daily goals unlocks rewards such as **“Vita-Bones”** or bowls of healthy pet food.  
+- Feed rewards to the pet, making it happy and allowing it to gain XP and level up.  
+- Over time, see the pet **grow from a small puppy into a healthy adult dog**, reinforcing healthy eating with visible progress.   
 
 ## Scope
 
