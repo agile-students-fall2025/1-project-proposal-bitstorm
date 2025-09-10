@@ -25,7 +25,7 @@ That's the problem we want to fix. We think that by tying nutritional goals to t
 
 ## For Whom?
 
-- People with busy schedules balancing school, work, and social life.  
+- People with busy schedules balancing school, work, and body health.  
 - People in cities like New York, where restaurants are expensive and many people start cooking their own meals.  
 - People make own food choice for the first time and needing simple guidance.  
 - Health-conscious users who want to eat better and maintain a good body shape, but find existing apps boring.  
@@ -43,7 +43,7 @@ That's the problem we want to fix. We think that by tying nutritional goals to t
 
 ## Scope
 
-We're confident this project is a perfect fit for a five-member team for one semester—it's challenging but definitely achievable.
+We're confident this project is a perfect fit for a five-member team for one semester — it's challenging but definitely achievable.
 
 What makes it a **real challenge** is that it's more than just a simple data-entry app. We'll need to connect to a **third-party nutrition API** (e.g., USDA FoodData Central) to get all our food data, which is a significant integration task. We also have to design a fun and engaging reward system on the front-end.
 
