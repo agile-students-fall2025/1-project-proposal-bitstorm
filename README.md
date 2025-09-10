@@ -31,15 +31,13 @@ Our first users will be our friends and classmates right here on campus. This is
 
 ## How?
 
-From the user's perspective, the system functions as a daily pet-care and self-care routine.
-
-First, a user signs up and gets to **adopt their own virtual pet**, like a little puppy. Next, the user sets up their daily health goals. They have two choices: they can either follow a set of **standard nutritional requirements** based on general health guidelines (automatically generated according to their current and target weight), or they can **customize their own goals** if they have specific targets in mind (like focusing on protein or iron).
-
-The main screen is the pet's home, where the user also sees their daily nutrition goals—like progress bars for protein, vitamins, and so on. Throughout the day, the user logs meals by searching for ingredients (e.g., "banana," "spinach," "chicken") and entering the quantity eaten. The app then calculates the nutrients from the meal and updates the user's progress bars.
-
-If the user successfully meets their key nutritional goals for the day, they earn a special reward: a **"Vita-Bone"** or a bowl of healthy pet food. The user can feed this item to their pet, and the pet will become happy and gain experience points.
-
-Day after day, as the user keeps eating well, they will see their pet **grow from a puppy into an adult dog**. This simple feedback loop—eat well, and watch a companion thrive—creates a long-term emotional connection and encourages daily engagement.
+• Sign up and **adopt a virtual pet**.  
+• Set daily goals: **standard guidelines** or **custom targets**.  
+• Main screen shows pet’s home + nutrition progress bars.  
+• Log meals by searching foods; app updates nutrients.  
+• Meeting goals earns rewards like **“Vita-Bones”**.  
+• Feed rewards to pet → happy, gains XP, grows.  
+• Pet evolves **from puppy to adult dog** as user eats well.  
 
 ## Scope
 
