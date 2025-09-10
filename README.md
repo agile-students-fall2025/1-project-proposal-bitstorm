@@ -11,7 +11,7 @@
 - [Tony Zhao](https://github.com/Tonyzsp)
 
 
-# NourishPet: Feed Yourself, Feed Your Friend
+## NourishPet: Feed Yourself, Feed Your Friend
 
 NourishPet is a mobile web app that makes nutrition tracking fun by turning it into a game of raising a virtual pet. When users eat healthy, their pet gets fed and grows.
 
