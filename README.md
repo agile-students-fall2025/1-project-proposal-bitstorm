@@ -19,9 +19,11 @@ NourishPet is a mobile web app that makes nutrition tracking fun by turning it i
 
 We will build **NourishPet**, a gamified application for tracking daily nutritional intake.
 
-The system solves the problem of low user engagement in traditional health apps. Standard nutrition trackers are boring. They're full of charts and numbers, and tracking what one eats feels like a homework assignment. This lack of positive reinforcement leads to users quickly abandoning their long-term health goals. This is an important problem because establishing sustainable, healthy eating habits is a big challenge, and existing tools often fail because they are not enjoyable to use.
+Traditional health apps struggle with engagement and long-term commitment. Standard nutrition tracker feels like a homework assignment, full with charts and numbers. This lack of positive reinforcement results in low user retention. 
 
-That's the problem we want to fix. We think that by tying nutritional goals to the growth and happiness of a virtual pet, we can create a positive and lasting motivation to eat healthier. Instead of focusing on just data, we're focusing on creating an emotional connection that makes users want to come back every day.
+Our goal is to strike the balance between promoting sustainable, healthy eating habits and making the experience engaging and enjoyable.
+
+We propose to solve this by linking nutritional progress to the growth of a virtual pet, turning healthy habits into an enjoyable, emotionally rewarding experience that keeps users coming back. Instead of focusing on just data, we're focusing on creating an emotional connection that makes users want to come back every day.
 
 ## For Whom?
 
