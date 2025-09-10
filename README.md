@@ -25,9 +25,11 @@ That's the problem we want to fix. We think that by tying nutritional goals to t
 
 ## For Whom?
 
-We are building this for **university students like ourselves**. We're busy, we're often making our own food choices for the first time, and we could use a fun, simple way to make sure we're eating well.
-
-Our first users will be our friends and classmates right here on campus. This is great because it means we can get real, honest feedback from the very people we want the app to help, right from the start. With that, we can ensure our **product** is genuinely useful and well-suited to its intended users.
+- People with busy schedules balancing school, work, and social life.  
+- People in cities like New York, where restaurants are expensive and many people start cooking their own meals.  
+- People make own food choice for the first time and needing simple guidance.  
+- Health-conscious users who want to eat better and maintain a good body shape, but find existing apps boring.  
+- Our first testers will be friends and classmates on campus, giving us real and honest feedback. 
 
 ## How?
 
